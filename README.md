@@ -4,7 +4,7 @@
 
 [Change what the prompt looks like:](https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html)
 
-`$PS1="\$ "
+`$PS1="\$ "`
 
 ## PDFs
 
